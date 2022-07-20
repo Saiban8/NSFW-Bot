@@ -1,11 +1,11 @@
 {
-  "prefix": "your prefix",
-  "token": "your token",
+  "prefix": "$",
+  "token": "OTkzMzk1MDA2OTAxNTkyMDg0.GdwIjG.sRKmeQ7bZcGVhvC04mKuGk01O3FgWILsyVeU_g",
   "owners": ["OWNER ID"],
-  "footer": "NSFW Bot • is.gd/nsfwbot",
+  "footer": "SyaizZBOT • SyaizZ",
 
   "msg": {
-    "nsfwWarn": "You must use this command in an nsfw channel!",
+    "nsfwWarn": "kamu harus berada di channel NSFW!",
     "loading": "Please wait...",
     "imageNotLoading": "Image not loading ? Click Here"
   }
